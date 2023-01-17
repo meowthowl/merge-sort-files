@@ -7,7 +7,6 @@ public class AppUtils {
     private static boolean isInteger = false;
     private static String outputFileName = "";
     private static final List<String> fileNames = new ArrayList<>();
-
     // Parse command line arguments
     public static void parseArgs(String[] args){
         for (String arg : args) {
@@ -31,7 +30,6 @@ public class AppUtils {
                         fileNames.add(arg);
                     }
             }
-
         }
         if (fileNames.isEmpty() || outputFileName.isEmpty()) {
             System.out.println("Пожалуйста введите имена input и output файлов");
