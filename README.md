@@ -1,6 +1,6 @@
 # Project description
 
-Test task project Merge Sort Files
+Test task project "Merge Sort Files"
 
 ## Software requirements
 
