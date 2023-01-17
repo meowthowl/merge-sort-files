@@ -4,7 +4,7 @@ Test task project Merge Sort Files
 
 ## Software requirements
 
-Java 1.8 or higher
+Java 1.8 or higher  
 Maven 3.0 or higher
 ## Required
 
